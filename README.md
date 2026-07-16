@@ -1,4 +1,3 @@
-<img width="1023" height="1537" alt="Heart nebula" src="https://github.com/user-attachments/assets/ad191b8c-41fa-4fb3-a2bd-da203a01503b" />
 # Heart Nebula Composition 3D
 
 This version does not draw a geometric heart.
@@ -44,8 +43,11 @@ The first run may take several seconds while the nebula is generated.
 
 ## Gravitational ripple interaction
 
+
 - Left click creates a soft expanding ripple.
 - Stars are pushed according to their depth layer.
 - Near stars react more strongly than far stars.
+- <img width="1023" height="1537" alt="Heart nebula" src="https://github.com/user-attachments/assets/ad191b8c-41fa-4fb3-a2bd-da203a01503b" />
+
 - The nebula receives a very subtle linked displacement.
 - No particle explosion or cosmic dust burst is used.
