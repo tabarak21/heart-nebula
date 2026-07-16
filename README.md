@@ -1,3 +1,4 @@
+<img width="1023" height="1537" alt="Heart nebula" src="https://github.com/user-attachments/assets/ad191b8c-41fa-4fb3-a2bd-da203a01503b" />
 # Heart Nebula Composition 3D
 
 This version does not draw a geometric heart.
